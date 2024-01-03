@@ -17,4 +17,3 @@ The Factory Pattern
     introducing changes to the function is easy and does not require any changes to the code
     that uses it.
 """
-impo
