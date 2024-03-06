@@ -3,7 +3,7 @@ Proxy is handy when creating a highly-resource intensive object.
 
 Problem:
     - Pospone object creating unless absolutely necessary.
-    - Fin a placeholder.
+    - Find a placeholder.
 
 Solution:
     - Clients - interacting with a proxy
